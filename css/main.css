@@ -1,0 +1,49 @@
+html {
+  font-family: "Droid Serif", serif;
+}
+
+header {
+  background-color: #70ad55;
+  color: #fff;
+}
+
+.btn {
+  background-color: #6e8c62;
+  border-color: inherit;
+  border-radius: .5em;
+  padding-left: 3rem;
+  padding-right: 3rem;
+  padding-top: .75rem;
+  padding-bottom: .75rem;
+}
+
+input, textarea, select {
+  border: 2px solid #6e8c62;
+}
+
+footer {
+  background-color: #70ad55;
+  color: #fff;
+}
+
+.text-center {
+  padding: 2.5rem;
+}
+
+fieldset {
+  border: none;
+}
+
+input[type="checkbox"] + label::before,
+input[type="radio"] + label::before {
+  border: 2px solid #6e8c62;
+}
+
+hr {
+  border-color: #70ad55;
+  opacity: .25;
+}
+
+em {
+  color: #70ad55;
+}
